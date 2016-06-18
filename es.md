@@ -1,4 +1,4 @@
-#Django Code of Conduct
+#Código de Conducta de Django
 
 Como la comunidad técnica en general, el equipo de Django y su comunidad están hechos de una mezcla de profesionales y voluntarios de todas partes del mundo, que trabajan en cada aspecto de la misión - incluso mentorias, enseñanza y conectando personas.
 
@@ -11,18 +11,24 @@ Este codigo de conducta aplica a todos espacios administrados por el proyecto Dj
 Si cree que alguien está violando el código de conducta, les pedimos que lo reporte enviando un correo a conduct@djangoproject.com. Para mas detalles por favor vea nuestra Guia de Reporte.
 
 * **Sea amigable y paciente.**
-* **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
-* **Be considerate.** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
-* **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Django community should be respectful when dealing with other members as well as with people outside the Django community.
-*  **Be careful in the words that you choose.** We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
-    * Violent threats or language directed against another person.
-    * Discriminatory jokes and language.
-    * Posting sexually explicit or violent material.
-    * Posting (or threatening to post) other people's personally identifying information ("doxing").
-    * Personal insults, especially those using racist or sexist terms.
-    * Unwelcome sexual attention.
-    * Advocating for, or encouraging, any of the above behavior.
-    * Repeated harassment of others. In general, if someone asks you to stop, then stop.
-* **When we disagree, try to understand why.** Disagreements, both social and technical, happen all the time and Django is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Django comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+* **Sea acogedor.** Nos esforzamos por ser una comunidad que acoge y da soporte a las personas de todos los orígenes e identidades. Esto incluye, pero no se limita a miembros de cualquier raza, etnia, cultura, nacionalidad, color, estatus de imigración, social y clase económica, nivel de educación, sexo, orientación sexual, identidad de género y de expresión, edad, talla, estatus familiar, politico, religion, y abilidades mental y física.
 
-Original text courtesy of the Speak Up! project.
+* **Sea considerado.** Su trabajo será usado por otras personas, y usted en cambio dependerá del trabajo de otros. Cualquier decisión que tome afectará a usuarios y colegas, y debe tener en consideración las esas consecuancias cuando tome decisiones. Recuerde que smos una comunidad global, el idioma que use podría no ser el principal de otras personas.
+
+* **Sea respetuoso.** No todos estamos de acuerdo al mismo tiempo, pero los desacuerdos no son excusa para un pobre comportamiento o modales. Todos experimentamos frustración en un momento u otro, pero no podemos permitir que la frustración se convierta en una ataque personal. Es importante recordar que una comunidad donde las personas no se sienten comodas o son amenazadas no es productiva. Los miembros de la comunidad de Django deben ser respetuosos en sus tratos con otros miembros así como con personas fuera de la comunidad.
+
+*  **Cuide las palabras que escoge.** Somos una comunidad de profesionales, y nos conducimos profesionalmente. Sean amables con otros. No insulte o denigre a otros participantes. Acoso u otros comportamientos excluyentes no son aceptables. Esto incluye, pero no está limitado a:
+    * Amenazas violentas o lenguaje dirigido contra otra persona.
+    * Chistes y lenguajes discriminatorios.
+    * Publicar material violento o sexual explícito.
+    * Publicar (o amenazar con publicar) los datos de identificación de otra persona ("doxing").
+    * Insultos personales, en especial aquellos con palabras racistas o con alusiones sexuales.
+    * Atención sexual no deseada u alusión a ella.
+    * Advocar por, o animar cualquiera de los comportamientos arriba descritos.
+    * Acoso repetido a otros. En general, si alguien te pide que te detengas, detente.
+
+* **Cuando hayan desacuerdos, trata de entender por qué.** Los desacuerdos, tanto sociales como técnicos, suceden todo el tiempo y django no es la excepción. Es importante que resolvamos los desacuerdos y puntos de vista diferentes de manera constructuva. Recuerde que todos somos diferentes. La fortaleza de Django viene de su comunidad variada, personas de un amplio rango de procedencias. Diferentes personas tienen diferentes perspectivas sobre los problemas. Ser incapaz de comprender por qué alguien sostiene un punto de vista no significa que estén equivocados. No se olvide que es humano equivocarse, y culparse los unos a los otros no conlleva a ninguna parte. Por el contrario, encoquese en ayudar a resolve los problemas y aprenda de los errores.
+
+Texto original cortasía del proyecto Speak Up!.
+
+Traducido por Andres Perez.
